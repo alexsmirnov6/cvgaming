@@ -1,4 +1,4 @@
-# Play video games using a webcam and CV
+# Play video games using webcam and CV
 ### 1. A little bit about idea of the project
 The world knows a lot of controllers for playing video games through the movement of the body and its individual parts. But there is no application capable of replacing these controllers with a regular webcam, which almost every PC user has.
 
@@ -36,3 +36,7 @@ Next, using the existing code for getting and outputting labels, we will substit
 Here is an example of the work:
 
 ![output(compress-video-online com)](https://user-images.githubusercontent.com/125807529/220127384-440e40bd-32b4-4bc5-a9ca-1d14d0a01ffd.gif)
+
+### 6. Summing up the results
+
+In my opinion, this project has a great potential for development. I plan to continue its development. If it is interesting to you and you want to join, I will be glad of your support
