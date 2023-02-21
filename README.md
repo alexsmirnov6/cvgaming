@@ -19,6 +19,7 @@ Now let's get down to the data collection itself. Let's go through the list with
 For convenience, I implemented a simple interface: we can see the time remaining to collect data on the current pose, name of current pose and the path along which the data recording.
 
 ![output(compress-video-online com)](https://user-images.githubusercontent.com/125807529/220135821-66705092-40b1-4b95-9778-714a27e5d3f9.gif)
+![output(compress-video-online com)](https://user-images.githubusercontent.com/125807529/220295600-aae7e99f-7f31-4567-9d6b-4e6a07bef8cd.gif)
 
 ### 4. Training models
 I use gradient boosting and random forest models built into keras. Linear models and fully-connected neural networks can also be used.
@@ -36,6 +37,7 @@ Next, using the existing code for getting and outputting labels, we will substit
 Here is an example of the work:
 
 ![output(compress-video-online com)](https://user-images.githubusercontent.com/125807529/220127384-440e40bd-32b4-4bc5-a9ca-1d14d0a01ffd.gif)
+![output(compress-video-online com)](https://user-images.githubusercontent.com/125807529/220297891-566048b0-6f0a-48cd-88b1-c92822402759.gif)
 
 ### 6. Summing up the results
 
