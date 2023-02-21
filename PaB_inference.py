@@ -85,6 +85,7 @@ with mp_holistic.Holistic(min_detection_confidence=0.5, min_tracking_confidence=
 
             # Emulate prediction
             emulator_request_decoder(pred, bind_settings)
+            
         except AttributeError:
             print('Detection error')
             pass
